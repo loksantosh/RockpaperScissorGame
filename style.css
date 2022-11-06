@@ -1,0 +1,23 @@
+.mybutton{
+    line-height: 30px;
+    width: 150px;
+}
+.gameDiv{
+   font-family: Arial, Helvetica, sans-serif;
+border: 3px solid;
+border-radius: 20px;
+padding:15px;
+background-color: lightsteelblue;
+text-align: center;
+}
+
+#myPlayer{
+    color: yellow;
+}
+#myComputer{
+    color: brown;
+}
+
+#myResult{
+    color:green
+}
